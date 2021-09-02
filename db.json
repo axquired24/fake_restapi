@@ -12,7 +12,5 @@
     "name": "typicode"
   },
   "guests": [
-    {"id": 1, "name": "oubo"},
-    {"id": 3, "name": "famma"}
   ]
 }
